@@ -1,30 +1,37 @@
 # 100 Days Of Code - Log
+My #100DaysOfCode challenge is concentrated towards making me a better person, do what I wanted to do and basically have good enough memories for 2018.
+The target is to work on the following challenges by giving at least one hour a day and that too with full time job:
+1) Learning DS: Learning Data Science (Why is it so famous, what is in there technically and learn it since I've always liked studying and working with data)
+2) Improving Backend: Getting a certificate from freeCodeCamp in NodeJS (always wished to learn NodeJS) or more
+3) Improving Frontend: Improve learning of frontend libraries
+4) Giving back to the society: This include any kind of contribution, since we take a lot from them as well 
+5) Anything else: If I spend time learning/doing something that compensates for not doing anything from above
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 23, Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+##### Today's Progress: 
+1) Improving Backend: Finished first module of NodeJS from freeCodeCamp
+2) Learning DS: Auditing course on coursera. Watched 1.5 modules of [What is Data Science](https://www.coursera.org/learn/what-is-datascience/home/welcome)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+##### Thoughts:
+- Got a better understanding of semantic versioning and difference between Major, Minor and Patches and how to upgrade to them.
+- Got an overview of Data Science, its applications, its market demand is pretty high, and there are people from diverse backgrounds working in this field.
+- Learnt about Hadoop (an inspiration of Google's page rank algorithm)
+- Learnt about Data Mining important pillars preprocessing(taking care of erroneous and missing data), transforming (to feasible form, convert variables into other variables or categoriest), storing (cloud is the winner) and then mining data.
 
-**Link to work:** [Calculator App](http://www.example.com)
+##### Links to work:
+- [What is Data Science](https://www.coursera.org/learn/what-is-datascience/home/welcome)
+- [Intro to Managing Packages with npm ](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: October 24, Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+##### Today's Progress:
+1) Improving Backend: Covered second module of freeCodeCamp
+2) Giving back to the society: Reported an issue on freeCodeCamp docs repository
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+##### Thoughts 
+- The glitch platform is lovely where I can code the Javascript and see the results without doing anything.
+- Found an issue (broken link) on freeCodeCamp and reported it on their public repository. I also sent a PR to fix the issue
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+##### Links to Work
+- [Reported issue of broken link and sent a PR](https://github.com/freeCodeCamp/freeCodeCamp/issues/28059)
