@@ -23,6 +23,7 @@ The target is to work on the following challenges by giving at least one hour a 
 - [What is Data Science](https://www.coursera.org/learn/what-is-datascience/home/welcome)
 - [Intro to Managing Packages with npm ](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm)
 
+
 ### Day 1: October 24, Wednesday
 
 ##### Today's Progress:
@@ -35,3 +36,14 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Links to Work
 - [Reported issue of broken link and sent a PR](https://github.com/freeCodeCamp/freeCodeCamp/issues/28059)
+
+### Day 2: October 25, Thursday
+
+##### Today's Progress:
+1) Improving Backend: Covered more than half of third module of freeCodeCamp certificate
+2) Anything else: Spent time with friends to discuss idea about Startup and how we can actually start it
+
+##### Thoughts 
+- Created Database of MongoDB on mLab, basically on cloud. 
+- Connected MongoDB and performed some queries, i had done very little queries in NodeJS earlier but just refreshed the memory and learnt more concepts
+
