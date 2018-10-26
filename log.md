@@ -47,3 +47,16 @@ The target is to work on the following challenges by giving at least one hour a 
 - Created Database of MongoDB on mLab, basically on cloud. 
 - Connected MongoDB and performed some queries, i had done very little queries in NodeJS earlier but just refreshed the memory and learnt more concepts
 
+### Day 3: October 26, Friday
+
+##### Today's Progress:
+1. Improving Backend: Completed 4th and final module of freeCodeCamp certificate (Achievement)
+2. Learning DS: Completed next module of Intro to Data Science
+3. Giving back: Created PRs in FreeCodeCamp's repository to contribute into documents and fixed a typo in Exercism.io (merged already)
+
+##### Thoughts 
+- Ran different flavors of queries from NodeJS including find, update, delete than some fancy ones like findOne, findAndUpdate etc 
+- Got overview of Neural Networks and Deep Learning (also called Deep Neural Network) which basically helped in natural language processing and image processing etc
+- Deep Neural network is when you have many many hidden layers (10s to 100s) in between Neural Networks
+
+
