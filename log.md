@@ -59,4 +59,10 @@ The target is to work on the following challenges by giving at least one hour a 
 - Got overview of Neural Networks and Deep Learning (also called Deep Neural Network) which basically helped in natural language processing and image processing etc
 - Deep Neural network is when you have many many hidden layers (10s to 100s) in between Neural Networks
 
+### Day 4: October 27, Saturday
 
+##### Today's Progress:
+1. Improving Backend: Completed the 1/4 project for certificate of 'Api and Microservices' by FreeCodeCamp
+
+##### Thoughts 
+- Learnt about time conversion and one step closer towards certificate and making bigger projects with NodeJS.
