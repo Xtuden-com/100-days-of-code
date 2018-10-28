@@ -66,3 +66,13 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Thoughts 
 - Learnt about time conversion and one step closer towards certificate and making bigger projects with NodeJS.
+
+
+### Day 5: October 28, Sunday
+
+##### Today's Progress:
+1. Improving Backend: Completed the 2/4 project for certificate of 'Api and Microservices' by FreeCodeCamp
+
+##### Thoughts 
+- Parsed user info like ip, browser etc from request header
+- Tried deploying on Heroku but build was failing so will do it tomorrow
