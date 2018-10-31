@@ -76,3 +76,19 @@ The target is to work on the following challenges by giving at least one hour a 
 ##### Thoughts 
 - Parsed user info like ip, browser etc from request header
 - Tried deploying on Heroku but build was failing so will do it tomorrow
+
+#### Links to work:
+- [Request Header Parser](https://github.com/ows-ali/boilerplate-project-urlshortener)
+
+### Day 7: October 28, Sunday
+
+##### Today's Progress:
+1. Improving Backend:The 2/4 project for certificate of 'Api and Microservices' by FreeCodeCamp is live on Heroku. Started 3/4 project but there was low voltage issue occured so was not able to continue work.
+
+##### Thoughts 
+- Deployed project to Heroku 1st and 2nd projects on Heroku
+
+#### Links to work:
+
+[FCC Timestamp API](https://fcc-project-timestamp.herokuapp.com/) 
+[FCC Header Parser API](https://api-header-parser.herokuapp.com/) 
