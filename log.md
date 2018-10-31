@@ -67,6 +67,8 @@ The target is to work on the following challenges by giving at least one hour a 
 ##### Thoughts 
 - Learnt about time conversion and one step closer towards certificate and making bigger projects with NodeJS.
 
+#### Links to work:
+- [Github: Timestamp](https://github.com/ows-ali/boilerplate-project-timestamp)
 
 ### Day 5: October 28, Sunday
 
@@ -80,7 +82,7 @@ The target is to work on the following challenges by giving at least one hour a 
 #### Links to work:
 - [Request Header Parser](https://github.com/ows-ali/boilerplate-project-urlshortener)
 
-### Day 7: October 28, Sunday
+### Day 7: October 30, Tuesday
 
 ##### Today's Progress:
 1. Improving Backend:The 2/4 project for certificate of 'Api and Microservices' by FreeCodeCamp is live on Heroku. Started 3/4 project but there was low voltage issue occured so was not able to continue work.
@@ -90,5 +92,21 @@ The target is to work on the following challenges by giving at least one hour a 
 
 #### Links to work:
 
-[FCC Timestamp API](https://fcc-project-timestamp.herokuapp.com/) 
-[FCC Header Parser API](https://api-header-parser.herokuapp.com/) 
+- [Heroku: FCC Timestamp API](https://fcc-project-timestamp.herokuapp.com/) 
+- [Heroku: FCC Header Parser API](https://api-header-parser.herokuapp.com/) 
+
+
+### Day 8: October 31, Wednesday
+
+##### Today's Progress:
+1. Learngin DS: Completed the course [What is Data Science](https://www.coursera.org/learn/what-is-datascience/home/welcome)
+1. Learning DS: Started [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/) and completed the 'Start here' and 'Python basics' sections
+3. Giving back: Merged the PRs of my [Hacktoberfest](https://github.com/ows-ali/Hacktoberfest) repository which were pending due to merge conflicts or minor issues, I resolved them myself. But I am really hopeful that those who did not add their names in README will come back and make a PR for that so that it becomes a good memory as well :)
+
+##### Thoughts 
+- Created a Whatsapp group to share the progress of Data Science and help motivate each other.
+
+#### Links to work:
+
+- [Heroku: FCC Timestamp API](https://fcc-project-timestamp.herokuapp.com/) 
+- [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/)
