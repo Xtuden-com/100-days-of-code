@@ -62,7 +62,7 @@ The target is to work on the following challenges by giving at least one hour a 
 ### Day 4: October 27, Saturday
 
 ##### Today's Progress:
-1. Improving Backend: Completed the 1/4 project for certificate of 'Api and Microservices' by FreeCodeCamp
+1. Improving Backend: Completed the 1/4 module for certificate of 'Api and Microservices' by FreeCodeCamp
 
 ##### Thoughts 
 - Learnt about time conversion and one step closer towards certificate and making bigger projects with NodeJS.
@@ -73,7 +73,7 @@ The target is to work on the following challenges by giving at least one hour a 
 ### Day 5: October 28, Sunday
 
 ##### Today's Progress:
-1. Improving Backend: Completed the 2/4 project for certificate of 'Api and Microservices' by FreeCodeCamp
+1. Improving Backend: Completed the 2/4 module for certificate of 'Api and Microservices' by FreeCodeCamp
 
 ##### Thoughts 
 - Parsed user info like ip, browser etc from request header
@@ -85,7 +85,7 @@ The target is to work on the following challenges by giving at least one hour a 
 ### Day 7: October 30, Tuesday
 
 ##### Today's Progress:
-1. Improving Backend:The 2/4 project for certificate of 'Api and Microservices' by FreeCodeCamp is live on Heroku. Started 3/4 project but there was low voltage issue occured so was not able to continue work.
+1. Improving Backend:The 2/5 project for certificate of 'Api and Microservices' by FreeCodeCamp is live on Heroku. Started 3/5 project but there was low voltage issue occured so was not able to continue work.
 
 ##### Thoughts 
 - Deployed project to Heroku 1st and 2nd projects on Heroku
@@ -100,7 +100,7 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Today's Progress:
 1. Learngin DS: Completed the course [What is Data Science](https://www.coursera.org/learn/what-is-datascience/home/welcome)
-1. Learning DS: Started [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/) and completed the 'Start here' and 'Python basics' sections
+2. Learning DS: Started [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/) and completed the 'Start here' and 'Python basics' sections
 3. Giving back: Merged the PRs of my [Hacktoberfest](https://github.com/ows-ali/Hacktoberfest) repository which were pending due to merge conflicts or minor issues, I resolved them myself. But I am really hopeful that those who did not add their names in README will come back and make a PR for that so that it becomes a good memory as well :)
 
 ##### Thoughts 
@@ -110,3 +110,16 @@ The target is to work on the following challenges by giving at least one hour a 
 
 - [Heroku: FCC Timestamp API](https://fcc-project-timestamp.herokuapp.com/) 
 - [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/)
+
+### Day 9: November 1, Tuesday
+
+##### Today's Progress:
+1. Learngin DS: In [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/), completed the 2nd section of Lists
+2. Improving Backend: Completed the 3/5 project for certificate of 'Api and Microservices' by FreeCodeCamp, live on Github and Heroku
+
+##### Thoughts 
+- Voice call with Juba, found on Slack, we both are interested in learning Data Science, we have partnered up to achieve something together 
+
+#### Links to work:
+
+- [Heroku: FCC URLShortner API](https://fcc-project-api-urlshortener.herokuapp.com/) 
