@@ -111,7 +111,7 @@ The target is to work on the following challenges by giving at least one hour a 
 - [Heroku: FCC Timestamp API](https://fcc-project-timestamp.herokuapp.com/) 
 - [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/)
 
-### Day 9: November 1, Tuesday
+### Day 9: November 1, Thursday
 
 ##### Today's Progress:
 1. Learngin DS: In [Introduction to Python for Data Science](https://courses.edx.org/courses/course-v1:Microsoft+DAT208x+3T2018/course/), completed the 2nd section of Lists
@@ -123,3 +123,8 @@ The target is to work on the following challenges by giving at least one hour a 
 #### Links to work:
 
 - [Heroku: FCC URLShortner API](https://fcc-project-api-urlshortener.herokuapp.com/) 
+
+### Day 10: November 2, Friday
+
+##### Today's Progress:
+1. Something Else: Learnt brand management and marketing strategies for an online platform
