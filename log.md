@@ -128,3 +128,8 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Today's Progress:
 1. Something Else: Learnt brand management and marketing strategies for an online platform
+
+### Day 11: November 3, Saturday
+
+##### Today's Progress:
+1. Learnt Python in Data Science one module
