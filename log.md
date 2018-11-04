@@ -122,7 +122,7 @@ The target is to work on the following challenges by giving at least one hour a 
 
 #### Links to work:
 
-- [Heroku: FCC URLShortner API](https://fcc-project-api-urlshortener.herokuapp.com/) 
+- [Heroku: FCC URLShortner APP](https://fcc-project-api-urlshortener.herokuapp.com/) 
 
 ### Day 10: November 2, Friday
 
@@ -133,3 +133,16 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Today's Progress:
 1. Learnt Python in Data Science one module
+
+### Day 12: November 4, Sunday
+
+##### Today's Progress:
+1. Improving Backend: Completed the 4/5 project for certificate of 'Api and Microservices' by FreeCodeCamp, live on Github and Heroku
+
+##### Thoughts 
+- Got a good enough time to this 4th project including deploying to Heroku directly from Github repostiory and adding environment config variables on Heroku. 
+- Close to completing the last project of the certificate. It apparently looks simpler than 4th one.
+
+#### Links to work:
+
+- [Heroku: FCC Exercise Tracker APP](https://fcc-project-exercise-tracker.herokuapp.com/) 
