@@ -146,3 +146,18 @@ The target is to work on the following challenges by giving at least one hour a 
 #### Links to work:
 
 - [Heroku: FCC Exercise Tracker APP](https://fcc-project-exercise-tracker.herokuapp.com/) 
+
+### Day 13: November 5, Monday
+
+##### Today's Progress:
+1. Improving Backend: Completed the 5/5 project for certificate of 'Api and Microservices' by FreeCodeCamp, live on Heroku via Github branch. Yayyy!!! :)
+
+##### Thoughts 
+- Feeling excited by completing the last project (simpler to complete than previous one, may be due to excitement)
+
+#### Links to work:
+
+- [Heroku: FCC File Metadata APP](https://ows-fcc-project-filemetadata.herokuapp.com) 
+- [Github: FCC File Metadata APP](https://github.com/ows-ali/boilerplate-project-filemetadata) 
+- [First FCC Certificate](https://www.freecodecamp.org/certification/ows-ali/apis-and-microservices)
+![Certificate](https://pbs.twimg.com/media/DrRSFgJWkAAPKsF.jpg)
