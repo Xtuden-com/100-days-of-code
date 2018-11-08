@@ -161,3 +161,12 @@ The target is to work on the following challenges by giving at least one hour a 
 - [Github: FCC File Metadata APP](https://github.com/ows-ali/boilerplate-project-filemetadata) 
 - [First FCC Certificate](https://www.freecodecamp.org/certification/ows-ali/apis-and-microservices)
 ![Certificate](https://pbs.twimg.com/media/DrRSFgJWkAAPKsF.jpg)
+
+### Day 15: November 7, Wednesday
+
+##### Today's Progress:
+1. Giving back to the society: Wrote an article on Medium for setting up Yii 2 application on Windows.
+
+#### Links to work:
+
+- [Medium: Set up a Yii 2.0 application in local PC](https://medium.com/@ows_ali/set-up-a-yii-2-0-application-in-windows-bb54ce763e51) 
