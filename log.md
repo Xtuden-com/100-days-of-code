@@ -170,3 +170,21 @@ The target is to work on the following challenges by giving at least one hour a 
 #### Links to work:
 
 - [Medium: Set up a Yii 2.0 application in local PC](https://medium.com/@ows_ali/set-up-a-yii-2-0-application-in-windows-bb54ce763e51) 
+
+### Day 16: November 8, Thursday
+
+##### Today's Progress:
+1. Learning DS: completed 1st module 'Analyzing categorical data' on Khan Academy Statistics and Probability course
+2. Something else: Worked on Personal website
+
+### Day 17: November 9, Friday
+
+##### Today's Progress:
+1. Learning DS: completed 2nd module 'Displaying and comparing quantitative data' on Khan Academy Statistics and Probability course
+
+
+### Day 18: November 10, Saturday
+
+##### Today's Progress:
+1. Learning DS: Learnt 'Summarizing quantitative data' module on Khan Academy Statistics course
+2. Learning DS: EdX course: completed 4/6th module 'Numpy' and completed 5/6th module 'Matplotlib'
