@@ -188,3 +188,8 @@ The target is to work on the following challenges by giving at least one hour a 
 ##### Today's Progress:
 1. Learning DS: Learnt 'Summarizing quantitative data' module on Khan Academy Statistics course
 2. Learning DS: EdX course: completed 4/6th module 'Numpy' and completed 5/6th module 'Matplotlib'
+
+### Day 19: November 11, Sunday
+
+##### Today's Progress:
+1. Learning DS: Completed module 'Summarizing quantitative data' and started next module 'Modeling Data Distributions'
