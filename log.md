@@ -193,3 +193,8 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Today's Progress:
 1. Learning DS: Completed module 'Summarizing quantitative data' and started next module 'Modeling Data Distributions'
+
+### Day 20: November 12, Monday
+
+##### Today's Progress:
+1. Something else: Worked on WordPress website using free hosting and free domain
