@@ -198,3 +198,9 @@ The target is to work on the following challenges by giving at least one hour a 
 
 ##### Today's Progress:
 1. Something else: Worked on WordPress website using free hosting and free domain
+
+### Day 22: November 14, Wednesday
+
+##### Today's Progress:
+1. Learning Data Science: Completed 6th module 'Control Flow and Pandas' of edX course 'Introduction to Python for Data Science'
+
