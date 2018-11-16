@@ -204,3 +204,15 @@ The target is to work on the following challenges by giving at least one hour a 
 ##### Today's Progress:
 1. Learning Data Science: Completed 6th module 'Control Flow and Pandas' of edX course 'Introduction to Python for Data Science'
 
+### Day 23: November 15, Thursday
+
+##### Today's Progress:
+1. Learning Data Science: Completed the edX course 'Introduction to Python for Data Science'
+1. Giving back to the society: Wrote an article on Medium on How to apply for Financial Aid at LUMS, Lahore for undergrad studies in Pakistan.
+
+#### Links to work:
+
+- [Medium: How to apply for Financial Aid at LUMS, Lahore](https://medium.com/@ows_ali/how-to-apply-for-financial-aid-at-lums-lahore-d4a4056a459d) 
+
+
+
