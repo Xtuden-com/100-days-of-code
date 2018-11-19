@@ -214,5 +214,16 @@ The target is to work on the following challenges by giving at least one hour a 
 
 - [Medium: How to apply for Financial Aid at LUMS, Lahore](https://medium.com/@ows_ali/how-to-apply-for-financial-aid-at-lums-lahore-d4a4056a459d) 
 
+### Day 25: November 17, Saturday
+
+##### Today's Progress:
+1. Something else: Brainstorming with Muneeb in library for ideas of site
+
+### Day 26: November 18, Sunday
+
+##### Today's Progress:
+1. Improving backend: Worked on WP site: installed theme, changed logos and look and feel of the site, but there is still a lot to do
+
+
 
 
