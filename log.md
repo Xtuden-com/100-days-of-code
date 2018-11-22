@@ -224,6 +224,18 @@ The target is to work on the following challenges by giving at least one hour a 
 ##### Today's Progress:
 1. Improving backend: Worked on WP site: installed theme, changed logos and look and feel of the site, but there is still a lot to do
 
+### Day 27: November 19, Monday
+1. Something else: Meeting with Jalees and Muneeb in canteen. Had a creative, technical, entrepreneurial and beautiful chat. Btw, it was my Birthday as well and had received a lot of wishes and had two parties same day one in with these same two guys and then family pizza party at home.
 
+### Day 28 November 20, Tuesday
+1. Giving back to the society: Had a Zoom video meeting with Adela from [Chezuba](https://chezuba.net) and gave user experience interview of the web platform to improve volunteers and NGO experience
+
+### Day 29 November 21, Wednesday
+1. Improving backend: MEAN Stack App Tutorial till 00:51:00
+2. Improving frontend: MEAN Stack App Tutorial till 00:51:00
+
+#### Links to work
+
+- [MEAN Stack Application Tutorial](https://www.youtube.com/watch?v=wtIvu085uU0)
 
 
