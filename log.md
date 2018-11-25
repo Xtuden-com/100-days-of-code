@@ -238,4 +238,17 @@ The target is to work on the following challenges by giving at least one hour a 
 
 - [MEAN Stack Application Tutorial](https://www.youtube.com/watch?v=wtIvu085uU0)
 
+### Day 30 Novermber 22, Thursday
+1. Improving backend: Deployed MEAN Stack application to Heroku
+
+#### Links to work- [Shopping site](https://cshop-live.herokuapp.com)
+
+### Day 31 November 23 Friday
+1. Improving backend: Worked on WP site (group project). Used WooCommerce plugin, shopping cart, products (sale and non sale) and categories.
+
+### Day 32 November 24 Saturday
+1. Giving back to the society: Information gathering of a project Revamping site from Noo-e-Falah NGO, India on [Chezuba](https://chezuba.net)
+2. Improving backend: Worked on WP site (group project). Used Disable site plugin, analytics plugin, testimonials etc
+
+
 
