@@ -259,6 +259,8 @@ The target is to work on the following challenges by giving at least one hour a 
 
 - [Noor e Falah](http://noorefalah.org)
 
+### Day 35 November 26 Tuesday
+1. Learning Data Science/Something else: worked no Google Analytics and integrated Analytics on my own site [Owais Ali](https://ows-ali.github.io)
 
 
 
